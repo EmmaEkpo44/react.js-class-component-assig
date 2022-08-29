@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.btn-main {
+    border-radius: 10px;
+}
+
+.btn-main:hover{
+    position: relative;
+    top: -5px;
+}
